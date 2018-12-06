@@ -1,4 +1,4 @@
-FROM expressjs-base
+FROM seabaylea/expressjs-base
 
 WORKDIR "/app/server/routers"
 
